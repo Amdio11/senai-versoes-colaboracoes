@@ -16,7 +16,3 @@ Durante meus estudos, percebi que salvar o progresso do meu trabalho em versões
 <p align="center">
 <b> A minha parxceirinha de aventuras e estudos </b>
 </p>
-readme de exemplo
-
-lembrei do comando: git commit
-Lembrei do comando: git status
