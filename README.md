@@ -1,6 +1,8 @@
 
 Versionando e criando branch(Euripedes)
 
+Criando branch versões.txt.
+
 <p align="center">
   <b>VERSIONAMENTO</b>
 </p>
