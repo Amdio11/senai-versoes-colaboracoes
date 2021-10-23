@@ -1,3 +1,6 @@
+
+Versionando e criando branch(Euripedes)
+
 <p align="center">
   <b>VERSIONAMENTO</b>
 </p>
