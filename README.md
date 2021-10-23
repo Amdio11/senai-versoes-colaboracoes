@@ -3,6 +3,10 @@ Versionando e criando branch(Euripedes)
 
 Criando branch versões.txt.
 
+Criando branch README.md....
+
+
+
 <p align="center">
   <b>VERSIONAMENTO</b>
 </p>
