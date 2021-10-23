@@ -1,5 +1,7 @@
 
-Versionando e criando branch(Euripedes)
+Versionando e criando branch(Euripedes) 
+
+Branch principal criada, criando nova branch
 
 Criando branch versões.txt.
 
