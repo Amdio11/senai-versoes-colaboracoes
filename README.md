@@ -1,12 +1,9 @@
 
-Versionando e criando branch(Euripedes) 
+Versionando e criando branch(Euripedes)>
 
-Branch principal criada, criando nova branch
+criando nova branch versoes.txt
 
-Criando branch versões.txt.
-
-Criando branch README.md.
-
+criando branch README.md 
 <p align="center">
   <b>VERSIONAMENTO</b>
 </p>
