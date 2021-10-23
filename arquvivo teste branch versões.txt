@@ -1,4 +1,4 @@
 arquvivo teste branch versões.txt
 
-Criando arquivo teste branch versoes.txt.
+Criando arquivo teste branch versoes.txt
 
