@@ -1,3 +1,11 @@
+
+Versionando e criando branch(Euripedes)>
+
+criando nova branch versoes.txt
+
+Resgatando dados da branch README.md(develops) para branch master.
+
+criando branch README.md 
 <p align="center">
   <b>VERSIONAMENTO</b>
 </p>
